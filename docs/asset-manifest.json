@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.e1072cdf.chunk.js",
-    "main.js.map": "/static/js/main.e1072cdf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.032111f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.032111f0.js.map",
-    "static/js/2.eebd2d4d.chunk.js": "/static/js/2.eebd2d4d.chunk.js",
-    "static/js/2.eebd2d4d.chunk.js.map": "/static/js/2.eebd2d4d.chunk.js.map",
-    "static/js/3.ef0cde96.chunk.js": "/static/js/3.ef0cde96.chunk.js",
-    "static/js/3.ef0cde96.chunk.js.map": "/static/js/3.ef0cde96.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.eebd2d4d.chunk.js.LICENSE.txt": "/static/js/2.eebd2d4d.chunk.js.LICENSE.txt"
+    "main.css": "https://clems71.github.io/p2p-webrtc-test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://clems71.github.io/p2p-webrtc-test/static/js/main.e1072cdf.chunk.js",
+    "main.js.map": "https://clems71.github.io/p2p-webrtc-test/static/js/main.e1072cdf.chunk.js.map",
+    "runtime-main.js": "https://clems71.github.io/p2p-webrtc-test/static/js/runtime-main.a4f575e8.js",
+    "runtime-main.js.map": "https://clems71.github.io/p2p-webrtc-test/static/js/runtime-main.a4f575e8.js.map",
+    "static/js/2.eebd2d4d.chunk.js": "https://clems71.github.io/p2p-webrtc-test/static/js/2.eebd2d4d.chunk.js",
+    "static/js/2.eebd2d4d.chunk.js.map": "https://clems71.github.io/p2p-webrtc-test/static/js/2.eebd2d4d.chunk.js.map",
+    "static/js/3.ef0cde96.chunk.js": "https://clems71.github.io/p2p-webrtc-test/static/js/3.ef0cde96.chunk.js",
+    "static/js/3.ef0cde96.chunk.js.map": "https://clems71.github.io/p2p-webrtc-test/static/js/3.ef0cde96.chunk.js.map",
+    "index.html": "https://clems71.github.io/p2p-webrtc-test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://clems71.github.io/p2p-webrtc-test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eebd2d4d.chunk.js.LICENSE.txt": "https://clems71.github.io/p2p-webrtc-test/static/js/2.eebd2d4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.032111f0.js",
+    "static/js/runtime-main.a4f575e8.js",
     "static/js/2.eebd2d4d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.e1072cdf.chunk.js"
